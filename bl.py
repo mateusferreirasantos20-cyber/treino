@@ -14,6 +14,6 @@ print(jogador)
 print(altura)
 print(idade)
 
-mensagem = input("What are you doing?")
+mensagem = "What are you doing?"
 print("Hello man,", mensagem)
 
