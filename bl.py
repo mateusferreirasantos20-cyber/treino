@@ -13,3 +13,7 @@ print(nome)
 print(jogador)
 print(altura)
 print(idade)
+
+mensagem = input("What are you doing?")
+print("Hello man,", mensagem)
+
