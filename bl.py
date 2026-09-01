@@ -18,7 +18,7 @@ mensagem = "What are you doing?"
 print("Hello man,", mensagem)
 
 idade = 15
-if idade >= 15:
+if idade >= 14:
     print("You are of the required age")
 else:
     print("You don't meet the age requirement")
