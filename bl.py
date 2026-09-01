@@ -11,3 +11,5 @@ jogador = True
 
 print(nome)
 print(jogador)
+print(altura)
+print(idade)
